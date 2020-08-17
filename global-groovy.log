@@ -1,0 +1,30 @@
+2020-08-10 11:42:36,282 INFO  [log] 5187
+2020-08-10 11:43:08,764 INFO  [log] 3 and 1
+2020-08-10 11:43:08,800 INFO  [log] manisha${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-08-10 11:43:16,135 INFO  [log] Status: FINISHED, time taken for TestCase was: 7076 ms
+2020-08-10 11:43:16,205 INFO  [log] Number of test steps which ran: 5
+2020-08-10 11:43:16,323 INFO  [log] Ramidi${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com
+2020-08-10 11:43:23,568 INFO  [log] Status: FINISHED, time taken for TestCase was: 6969 ms
+2020-08-10 11:43:23,569 INFO  [log] Number of test steps which ran: 5
+2020-08-10 11:43:24,261 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <MANISHA.EMAIL>manishaUser${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com</MANISHA.EMAIL>
+        </Row>
+        <Row rowNumber="2">
+            <MANISHA.EMAIL>manishar${=String.valueOf(Math.random()*1000).substring(0,5)}@gmail.com</MANISHA.EMAIL>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-10 11:43:24,399 INFO  [log] count is 2
+2020-08-10 11:43:24,403 INFO  [log] i is 1
+2020-08-10 11:43:24,453 INFO  [log] manishaUser863.0@gmail.com
+2020-08-10 11:43:31,675 INFO  [log] Status: FINISHED, time taken for TestCase was: 7105 ms
+2020-08-10 11:43:31,676 INFO  [log] Number of test steps which ran: 5
+2020-08-10 11:43:31,688 INFO  [log] i is 2
+2020-08-10 11:43:31,705 INFO  [log] manishar733.9@gmail.com
+2020-08-10 11:43:38,735 INFO  [log] Status: FINISHED, time taken for TestCase was: 6930 ms
+2020-08-10 11:43:38,737 INFO  [log] Number of test steps which ran: 5
+2020-08-10 11:43:46,362 INFO  [log] Status: FINISHED, time taken for TestCase was: 7277 ms
+2020-08-10 11:43:46,375 INFO  [log] Number of test steps which ran: 5
